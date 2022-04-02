@@ -1,0 +1,15 @@
+D:\Desktop\project\acmp.ru\Personclass\bin\Debug\net7.0\Personclass.exe
+D:\Desktop\project\acmp.ru\Personclass\bin\Debug\net7.0\Personclass.deps.json
+D:\Desktop\project\acmp.ru\Personclass\bin\Debug\net7.0\Personclass.runtimeconfig.json
+D:\Desktop\project\acmp.ru\Personclass\bin\Debug\net7.0\Personclass.dll
+D:\Desktop\project\acmp.ru\Personclass\bin\Debug\net7.0\Personclass.pdb
+D:\Desktop\project\acmp.ru\Personclass\obj\Debug\net7.0\Personclass.csproj.AssemblyReference.cache
+D:\Desktop\project\acmp.ru\Personclass\obj\Debug\net7.0\Personclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\project\acmp.ru\Personclass\obj\Debug\net7.0\Personclass.AssemblyInfoInputs.cache
+D:\Desktop\project\acmp.ru\Personclass\obj\Debug\net7.0\Personclass.AssemblyInfo.cs
+D:\Desktop\project\acmp.ru\Personclass\obj\Debug\net7.0\Personclass.csproj.CoreCompileInputs.cache
+D:\Desktop\project\acmp.ru\Personclass\obj\Debug\net7.0\Personclass.dll
+D:\Desktop\project\acmp.ru\Personclass\obj\Debug\net7.0\refint\Personclass.dll
+D:\Desktop\project\acmp.ru\Personclass\obj\Debug\net7.0\Personclass.pdb
+D:\Desktop\project\acmp.ru\Personclass\obj\Debug\net7.0\Personclass.genruntimeconfig.cache
+D:\Desktop\project\acmp.ru\Personclass\obj\Debug\net7.0\ref\Personclass.dll
